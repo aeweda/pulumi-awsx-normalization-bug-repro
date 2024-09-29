@@ -1,0 +1,13 @@
+{
+    "name": "bridge-iac",
+    "devDependencies": {
+        "@types/node": "^18.19.53"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^6.53.0",
+        "@pulumi/awsx": "^2.16.0",
+        "@pulumi/command": "^1.0.1",
+        "@pulumi/pulumi": "^3.134.1",
+        "sort-keys": "^4.2.0"
+    }
+}

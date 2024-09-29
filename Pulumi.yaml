@@ -1,0 +1,3 @@
+name: bug-repro
+runtime: nodejs
+description: Normalization bug reproduction
